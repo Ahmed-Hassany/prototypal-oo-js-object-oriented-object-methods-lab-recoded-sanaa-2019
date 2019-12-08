@@ -9,5 +9,5 @@ BoardMember.prototype.BoardMember=function(){
 }
 
 BoardMember.prototype.approve=function(){
-  return `No, I must disagree`
+  return `You can do that!`
 }
