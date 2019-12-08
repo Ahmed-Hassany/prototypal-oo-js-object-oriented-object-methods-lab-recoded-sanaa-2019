@@ -5,7 +5,7 @@ function BoardMember(name, homeState,training){
 }
 
 BoardMember.prototype.BoardMember=function(){
-  return `No, I must disagree.`
+  return `No, I must disagree`
 }
 
 BoardMember.prototype.approve=function(){
