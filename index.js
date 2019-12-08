@@ -8,3 +8,6 @@ BoardMember.prototype.BoardMember=function(){
   return `No, I must disagree`
 }
 
+BoardMember.prototype.BoardMember=function(){
+  return `No, I must disagree`
+}
